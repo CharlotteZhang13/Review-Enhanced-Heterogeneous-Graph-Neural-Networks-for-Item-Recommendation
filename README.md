@@ -6,4 +6,5 @@
 ![image](https://github.com/CharlotteZhang13/Review-Enhanced-Heterogeneous-Graph-Neural-Networks-for-Item-Recommendation/blob/main/paper/paper_04.png)
 ![image](https://github.com/CharlotteZhang13/Review-Enhanced-Heterogeneous-Graph-Neural-Networks-for-Item-Recommendation/blob/main/paper/paper_05.png)
 ![image](https://github.com/CharlotteZhang13/Review-Enhanced-Heterogeneous-Graph-Neural-Networks-for-Item-Recommendation/blob/main/paper/paper_06.png)
+![image](https://github.com/CharlotteZhang13/Review-Enhanced-Heterogeneous-Graph-Neural-Networks-for-Item-Recommendation/blob/main/paper/paper_07.png)
 
